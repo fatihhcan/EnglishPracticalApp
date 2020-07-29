@@ -1,0 +1,266 @@
+[
+    {
+        "_id": 1,
+        "imageUrl": "https://miro.medium.com/max/800/1*Lm6QzyvHkhjxwdeTwnpGJw.jpeg",
+        "turkishEnglish": {
+            "question": "okumak",
+            "answers": [
+                "reading",
+                "writing",
+                "cooking",
+                "washing"
+            ],
+            "trueAnswer": "reading"
+        },
+        "englishTurkish": {
+            "question": "reading",
+            "answers": [
+                "okumak",
+                "yazmak",
+                "pişirmek",
+                "yıkamak"
+            ],
+            "trueAnswer": "okumak"
+        }
+    },
+    {
+        "_id": 2,
+        "imageUrl": "https://hhp-blog.s3.amazonaws.com/2020/04/GettyImages-1187064868.jpg",
+        "turkishEnglish": {
+            "question": "yıkamak",
+            "answers": [
+                "reading",
+                "writing",
+                "cooking",
+                "washing"
+            ],
+            "trueAnswer": "washing"
+        },
+        "englishTurkish": {
+            "question": "washing",
+            "answers": [
+                "okumak",
+                "yazmak",
+                "pişirmek",
+                "yıkamak"
+            ],
+            "trueAnswer": "yıkamak"
+        }
+    },
+    {
+        "_id": 3,
+        "imageUrl": "https://sabriulkerfoundation.org/tr/img/icerik/etleripisirmekbbk.jpg",
+        "turkishEnglish": {
+            "question": "pişirmek",
+            "answers": [
+                "reading",
+                "writing",
+                "cooking",
+                "washing"
+            ],
+            "trueAnswer": "cooking"
+        },
+        "englishTurkish": {
+            "question": "cooking",
+            "answers": [
+                "okumak",
+                "yazmak",
+                "pişirmek",
+                "yıkamak"
+            ],
+            "trueAnswer": "pişirmek"
+        }
+    },
+    {
+        "_id": 4,
+        "imageUrl": "https://m.bianet.org/system/uploads/1/articles/spot_image/000/166/764/original/mr.jpg",
+        "turkishEnglish": {
+            "question": "fil",
+            "answers": [
+                "dog",
+                "bird",
+                "elephant",
+                "lion"
+            ],
+            "trueAnswer": "elephant"
+        },
+        "englishTurkish": {
+            "question": "elephant",
+            "answers": [
+                "köpek",
+                "kuş",
+                "fil",
+                "aslan"
+            ],
+            "trueAnswer": "fil"
+        }
+    },
+    {
+        "_id": 5,
+        "imageUrl": "https://i12.haber7.net//haber/haber7/photos/2020/24/aslan_iki_oldu_koyluye_gore_yavrulari_da_var_1591937348_0614.jpg",
+        "turkishEnglish": {
+            "question": "aslan",
+            "answers": [
+                "dog",
+                "bird",
+                "elephant",
+                "lion"
+            ],
+            "trueAnswer": "lion"
+        },
+        "englishTurkish": {
+            "question": "lion",
+            "answers": [
+                "köpek",
+                "kuş",
+                "fil",
+                "aslan"
+            ],
+            "trueAnswer": "aslan"
+        }
+    },
+    {
+        "_id": 6,
+        "imageUrl": "https://i4.hurimg.com/i/hurriyet/75/750x422/5c02ed550f25442260cff6ab.jpg",
+        "turkishEnglish": {
+            "question": "köpek",
+            "answers": [
+                "dog",
+                "bird",
+                "elephant",
+                "lion"
+            ],
+            "trueAnswer": "dog"
+        },
+        "englishTurkish": {
+            "question": "dog",
+            "answers": [
+                "köpek",
+                "kuş",
+                "fil",
+                "aslan"
+            ],
+            "trueAnswer": "köpek"
+        }
+    },
+    {
+        "_id": 7,
+        "imageUrl": "https://www.petburada.com/Uploads/Blog/Evcil-Kus-Bakimi-Hakkinda-Genel-Bilgiler-5c41.jpg",
+        "turkishEnglish": {
+            "question": "kuş",
+            "answers": [
+                "dog",
+                "bird",
+                "elephant",
+                "lion"
+            ],
+            "trueAnswer": "bird"
+        },
+        "englishTurkish": {
+            "question": "bird",
+            "answers": [
+                "köpek",
+                "kuş",
+                "fil",
+                "aslan"
+            ],
+            "trueAnswer": "kuş"
+        }
+    },
+    {
+        "_id": 8,
+        "imageUrl": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/08040710/beypazari-maden-suyu-6x200-ml-ea0f41-1650x1650.jpg",
+        "turkishEnglish": {
+            "question": "madenSuyu",
+            "answers": [
+                "cola",
+                "fruitJuice",
+                "mineralWater",
+                "kephir"
+            ],
+            "trueAnswer": "mineralWater"
+        },
+        "englishTurkish": {
+            "question": "mineralWater",
+            "answers": [
+                "kola",
+                "meyveSuyu",
+                "madenSuyu",
+                "kefir"
+            ],
+            "trueAnswer": "madenSuyu"
+        }
+    },
+    {
+        "_id": 9,
+        "imageUrl": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/11550996/11550996-ccb34e.jpg",
+        "turkishEnglish": {
+            "question": "kefir",
+            "answers": [
+                "cola",
+                "fruitJuice",
+                "mineralWater",
+                "kephir"
+            ],
+            "trueAnswer": "kephir"
+        },
+        "englishTurkish": {
+            "question": "kephir",
+            "answers": [
+                "kola",
+                "meyveSuyu",
+                "madenSuyu",
+                "kefir"
+            ],
+            "trueAnswer": "kefir"
+        }
+    },
+    {
+        "_id": 10,
+        "imageUrl": "https://images.ofix.com/product-image/Sek-Karisik-Meyve-Suyu-1000-Ml_RI68396FT1MF185416.jpg",
+        "turkishEnglish": {
+            "question": "meyveSuyu",
+            "answers": [
+                "cola",
+                "fruitJuice",
+                "mineralWater",
+                "kephir"
+            ],
+            "trueAnswer": "fruitJuice"
+        },
+        "englishTurkish": {
+            "question": "fruitJuice",
+            "answers": [
+                "kola",
+                "meyveSuyu",
+                "madenSuyu",
+                "kefir"
+            ],
+            "trueAnswer": "meyveSuyu"
+        }
+    },
+    {
+        "_id": 11,
+        "imageUrl": "https://i2.milimaj.com/i/milliyet/75/0x410/5c8d4b2845d2a05010d5390b.jpg",
+        "turkishEnglish": {
+            "question": "kola",
+            "answers": [
+                "cola",
+                "fruitJuice",
+                "mineralWater",
+                "kephir"
+            ],
+            "trueAnswer": "cola"
+        },
+        "englishTurkish": {
+            "question": "cola",
+            "answers": [
+                "kola",
+                "meyveSuyu",
+                "madenSuyu",
+                "kefir"
+            ],
+            "trueAnswer": "kola"
+        }
+    }
+]

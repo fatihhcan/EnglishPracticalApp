@@ -1,0 +1,79 @@
+{
+    "questions": [
+        {
+            "id": 0,
+            "turkish": "okumak",
+            "wrong_options_en": [
+                "test_tr",
+                "test_tr1",
+                "test_tr2"
+            ],
+            "wrong_options_tr": [
+                "test_en",
+                "test_en1",
+                "test_en2"
+            ],
+            "english": "reading"
+        },
+        {
+            "id": 1,
+            "turkish": "kosmak",
+            "wrong_options_en": [
+                "test_tr",
+                "test_tr1",
+                "test_tr2"
+            ],
+            "wrong_options_tr": [
+                "test_en",
+                "test_en1",
+                "test_en2"
+            ],
+            "english": "running"
+        },
+        {
+            "id": 2,
+            "turkish": "yurumek",
+            "wrong_options_en": [
+                "test_tr",
+                "test_tr1",
+                "test_tr2"
+            ],
+            "wrong_options_tr": [
+                "test_en",
+                "test_en1",
+                "test_en2"
+            ],
+            "english": "walking"
+        },
+        {
+            "id": 3,
+            "turkish": "uyumak",
+            "wrong_options_en": [
+                "test_tr",
+                "test_tr1",
+                "test_tr2"
+            ],
+            "wrong_options_tr": [
+                "test_en",
+                "test_en1",
+                "test_en2"
+            ],
+            "english": "sleeping"
+        },
+        {
+            "id": 4,
+            "turkish": "yazmak",
+            "wrong_options_en": [
+                "test_tr",
+                "test_tr1",
+                "test_tr2"
+            ],
+            "wrong_options_tr": [
+                "test_en",
+                "test_en1",
+                "test_en2"
+            ],
+            "english": "writing"
+        }
+    ]
+}
